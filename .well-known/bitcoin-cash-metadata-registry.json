@@ -1,0 +1,49 @@
+{
+    "version": {
+        "major": 0,
+        "minor": 2,
+        "patch": 0
+      },
+    "latestRevision": "20230218",
+    "registryIdentity": {
+      "name": "MTBCMR",
+      "description": "Maze Tokens Bitcoin Cash Metadata Registry",
+      "time": {
+        "begin": "20230202"
+      }
+  },
+    "identities": {
+      "39a45dc70bdce0928834b75a3cfeb283fbf76a27b40fee5c9d0939e25bca7cac": [{
+        "name": "PoW Freaks",
+        "description": "PoW (Proof-of-Work) Freaks token.",
+        "time": {
+          "begin": "20230202"
+        },
+        "token": {
+          "category": "39a45dc70bdce0928834b75a3cfeb283fbf76a27b40fee5c9d0939e25bca7cac",
+          "symbol": "POWF",
+          "decimals": 0
+        },
+        "uris": {
+          "icon": "https://mazetoken.github.io/bcmr/img/powficon.png"
+        }
+      }],
+
+      "57b9bcf87a63eba0412dabb9ab761a1ad0c07040ee8b5132f22207e853c47529": [{
+        "name": "PoW Freaks #0",
+        "description": "PoW (Proof-of-Work) Freaks digital collectible.",
+        "time": {
+          "begin": "20230202"
+        },
+        "token": {
+          "category": "57b9bcf87a63eba0412dabb9ab761a1ad0c07040ee8b5132f22207e853c47529",
+          "symbol": "POWF",
+          "decimals": 0
+        },
+        "uris": {
+          "icon": "https://mazetoken.github.io/bcmr/img/powficon.png",
+          "image": "https://mazetoken.github.io/bcmr/img/powfnft.png"
+        }
+      }]
+    }
+}
