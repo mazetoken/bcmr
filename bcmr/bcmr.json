@@ -1,0 +1,81 @@
+{
+    "version": {
+        "major": 0,
+        "minor": 2,
+        "patch": 0
+      },
+    "latestRevision": "2023-01-26T18:51:35.115Z",
+    "registryIdentity": {
+      "name": "example bcmr",
+      "description": "example bcmr for tokens on chipnet",
+      "time": {
+        "begin": "2023-01-26T18:51:35.115Z"
+      }
+  },
+    "identities": {
+      "c2fdafe61271d626671f07d2ad236c31e002c2797c205d00b8558f5742d5ef95": [{
+        "name": "test tokens",
+        "description": "",
+        "time": {
+          "begin": "2023-01-26T18:51:35.115Z"
+        },
+        "token": {
+          "category": "c2fdafe61271d626671f07d2ad236c31e002c2797c205d00b8558f5742d5ef95",
+          "symbol": "TEST",
+          "decimals": 1
+        },
+        "uris": {
+          "icon": "https://raw.githubusercontent.com/mr-zwets/example_bcmr/main/TEST.svg"
+        }
+      }],
+        
+      "1ccda51d041dc0876ae174104e43e095a5016975deb27219e5ec5b94f07f5bdc": [{
+        "name": "Hero Token",
+        "description": "Token for All Heroes",
+        "time": {
+          "begin": "2023-02-01T18:51:35.115Z"
+        },
+        "token": {
+          "category": "1ccda51d041dc0876ae174104e43e095a5016975deb27219e5ec5b94f07f5bdc",
+          "symbol": "HERO",
+          "decimals": 1
+        },
+        "uris": {
+          "icon": "https://raw.githubusercontent.com/iamclrscr/example_bcmr/main/HeroToken.png"
+        }
+      }],
+
+      "39a45dc70bdce0928834b75a3cfeb283fbf76a27b40fee5c9d0939e25bca7cac": [{
+        "name": "PoW Freaks",
+        "description": "PoW (Proof-of-Work) Freaks token.",
+        "time": {
+          "begin": "2023-02-02T18:51:35.115Z"
+        },
+        "token": {
+          "category": "39a45dc70bdce0928834b75a3cfeb283fbf76a27b40fee5c9d0939e25bca7cac",
+          "symbol": "POWF",
+          "decimals": 0
+        },
+        "uris": {
+          "icon": "https://raw.githubusercontent.com/mazetoken/bcmr/main/img/powficon.png"
+        }
+      }],
+
+      "57b9bcf87a63eba0412dabb9ab761a1ad0c07040ee8b5132f22207e853c47529": [{
+        "name": "PoW Freaks #0",
+        "description": "PoW (Proof-of-Work) Freaks digital collectible.",
+        "time": {
+          "begin": "2023-02-02T18:51:35.115Z"
+        },
+        "token": {
+          "category": "57b9bcf87a63eba0412dabb9ab761a1ad0c07040ee8b5132f22207e853c47529",
+          "symbol": "POWF",
+          "decimals": 0
+        },
+        "uris": {
+          "icon": "https://raw.githubusercontent.com/mazetoken/bcmr/main/img/powficon.png",
+          "image": "https://raw.githubusercontent.com/mazetoken/bcmr/main/img/powfnft.png"
+        }
+      }]
+    }
+}
